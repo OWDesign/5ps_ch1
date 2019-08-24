@@ -1,0 +1,4 @@
+products page here is where u left (:
+
+
+you need to be logged in to see index.php otherwise don't work (bug!)
